@@ -1,0 +1,5 @@
+wc = world count 
+  wc <file>
+  wc longText.txt
+    9 - 492 - 3005
+  lines - words - characters 

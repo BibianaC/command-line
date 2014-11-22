@@ -1,0 +1,7 @@
+Move files 
+  mv <origin location> <destination>
+  mv newFile ..
+  
+Rename files
+  mv <current file name> <new name>
+  mv newFile newerFile
